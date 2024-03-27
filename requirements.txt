@@ -1,0 +1,12 @@
+accelerate==0.27.2
+opencv-python==4.8.0
+numpy==1.25.2
+Pillow==9.4.0
+datasets==2.18.0
+sentencepiece==0.1.99
+tensorboard==2.15.2
+safetensors==0.4.2
+faker
+tqdm==4.66.2
+torch==2.2.1+cu121
+python-Levenshtein
